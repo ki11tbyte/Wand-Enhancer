@@ -4,8 +4,7 @@
 
 # WandEnhancer
 
-[![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer)
-
+[![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)]
 </div>
 
 <h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4>
@@ -45,13 +44,6 @@ WandEnhancer includes a built-in **Remote Web Panel** allowing you to control ap
 - For startup failures, attach `launcher.log` and, if relevant, `launcher.prev.log` from the Wand installation root. They include the build commit and applied patches. Remove personal paths or other private information before sharing.
 - Include the exact Wand version and stable/beta channel, selected patches, and whether the failure happened on a fresh install, an update, or Restore. Do not attach executables, account tokens or storage dumps.
 
-*Here how you do it:*
-
-https://github.com/user-attachments/assets/7966cabe-0aa6-424d-8c2f-981ad91e0f91
-
-
-
-
 
 ---
 
@@ -71,11 +63,9 @@ https://github.com/user-attachments/assets/7966cabe-0aa6-424d-8c2f-981ad91e0f91
 
 ---
 ## 🖼️ Screenshots
-![1](./assets/screenshots/app1.png)
-<div align='center'>
+<img width="1102" height="830" alt="image" src="https://github.com/user-attachments/assets/947539c1-0579-429e-981f-e76c0ef8dca3" />
 
-![2](./assets/screenshots/app2.png)
-</div>
+<div align='center'>
 
 
 ## 📜 License
