@@ -1,6 +1,7 @@
 <div align="center">
 
-![logo](<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/5bf24b52-0587-4169-b940-a3107fa91842" />
+![logo](<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/f4001490-eea4-4699-b661-ad4f93fffb6e" />
+
 )
 
 # WandEnhancer
