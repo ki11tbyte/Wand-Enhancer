@@ -1,6 +1,6 @@
 <div align="center">
 
-(<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/f4001490-eea4-4699-b661-ad4f93fffb6e" />)
+<img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/f4001490-eea4-4699-b661-ad4f93fffb6e" />
 
 # WandEnhancer
 
